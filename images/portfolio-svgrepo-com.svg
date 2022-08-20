@@ -3,8 +3,8 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <g>
-	<rect x="176.552" y="75.034" style="fill:#464655;" width="17.655" height="44.138"/>
-	<rect x="317.793" y="75.034" style="fill:#464655;" width="17.655" height="44.138"/>
+	<rect x="176.552" y="75.034" style="fill:#464655;" width="85px" height="85px"/>
+	<rect x="317.793" y="75.034" style="fill:#464655;" width="85px" height="85px"/>
 </g>
 <path style="fill:#AA6955;" d="M467.862,472.276H44.138c-14.626,0-26.483-11.857-26.483-26.483V278.069h476.69v167.724
 	C494.345,460.419,482.488,472.276,467.862,472.276z"/>
