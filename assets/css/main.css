@@ -126,7 +126,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 18pt;
+		font-size: 20pt;
 		font-weight: 300;
 		line-height: 1.65;
 	}
@@ -1802,7 +1802,7 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		border-radius: 8px;
+		border-radius: 10px;
 		border: solid;
 		margin-bottom: 2em;
 		padding: 1.5em;
@@ -1821,7 +1821,7 @@ input, select, textarea {
 		}
 
 	.box {
-		border-color: rgba(255, 255, 255, 0.35);
+		border-color: rgba(0, 0, 0, 0.35);
 	}
 
 /* Button */
@@ -2879,7 +2879,7 @@ input, select, textarea {
 			-ms-flex: 1;
 			flex: 1;
 			padding: 1.5em;
-			color: #ffffff;
+			color: #000000;
 			text-align: center;
 		}
 
