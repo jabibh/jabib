@@ -2781,15 +2781,15 @@ input, select, textarea {
 	}
 
 	table thead {
-		border-bottom-color: rgba(255, 255, 255, 0.35);
+		border-bottom-color: rgb(255, 255, 255);
 	}
 
 	table tfoot {
-		border-top-color: rgba(255, 255, 255, 0.35);
+		border-top-color: rgb(255, 255, 255);
 	}
 
 	table.alt tbody tr td {
-		border-color: rgba(255, 255, 255, 0.35);
+		border-color: rgb(255, 255, 255);
 	}
 
 /* Features */
@@ -3565,24 +3565,24 @@ input, select, textarea {
 		}
 
 		#main table thead {
-			border-bottom-color: #dddddd;
+			border-bottom-color: #ffffff;
 		}
 
 		#main table tfoot {
-			border-top-color: #dddddd;
+			border-top-color: #ffffff;
 		}
 
 		#main table.alt tbody tr td {
-			border-color: #dddddd;
+			border-color: #ffffff;
 		}
 
 		#main .spotlight .image {
-			border-color: #dddddd;
+			border-color: #ffffff;
 		}
 
 		#main > .main {
 			padding: 5em 5em 3em 5em ;
-			border-top: solid 1px #dddddd;
+			border-top: solid 1px #ffffff;
 		}
 
 			#main > .main:first-child {
