@@ -3229,19 +3229,19 @@ input, select, textarea {
 	}
 
 		#nav input, #nav select, #nav textarea {
-			color: #636363;
+			color: #000000;
 		}
 
 		#nav a:hover {
-			color: #636363;
+			color: #000000;
 		}
 
 		#nav strong, #nav b {
-			color: #636363;
+			color: #000000;
 		}
 
 		#nav h1, #nav h2, #nav h3, #nav h4, #nav h5, #nav h6 {
-			color: #636363;
+			color: #000000;
 		}
 
 		#nav blockquote {
